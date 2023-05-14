@@ -1,0 +1,5 @@
+# Ignore nca-env directory
+/.venv/
+
+# Ignore everything inside nca-env directory
+/.venv/*
